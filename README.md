@@ -1,4 +1,4 @@
-# Guess-Number-Game-with-PYTHON
+# Guess Number Game with PYTHON
 a simple game with lovely python for beginners <br>
 user pick 2 numbers , and the game starts . <br>
 then you should guess a number between that 2 numbers . <br>
