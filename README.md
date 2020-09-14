@@ -1,9 +1,9 @@
 # Guess-Number-Game-with-PYTHON
-a simple game with lovely python for beginners
-user pick 2 numbers , and the game starts .
-then you should guess a number between that 2 numbers .
-till you can't guess the answer , the game will guide you to guess a bigger or smaller number .
-when you guess the number , game will be ended .
+a simple game with lovely python for beginners <br>
+user pick 2 numbers , and the game starts . <br>
+then you should guess a number between that 2 numbers . <br>
+till you can't guess the answer , the game will guide you to guess a bigger or smaller number . <br>
+when you guess the number , game will be ended .<br>
 can you make better this little game ? i'll be glad :)
 
 
